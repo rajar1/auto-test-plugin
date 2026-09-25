@@ -1,0 +1,10 @@
+{
+  "name": "autotest-marketplace",
+  "description": "Personal marketplace for shared engineering-harness plugins, starting with autotest-plugin's design-doc skill.",
+  "owner": {
+    "name": "Ramesh Raja Nagalur Muthusamy"
+  },
+  "plugins": [
+    { "name": "autotest-plugin", "source": "./" }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "autotest-plugin",
+  "description": "Shared engineering-harness skills usable across repos: currently scaffolds docs/design/<TICKET>/{research.md,plan.md} for any Jira-ticket-driven work.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Ramesh Raja Nagalur Muthusamy"
+  }
+}
